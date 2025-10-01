@@ -8,5 +8,5 @@
 *.iml
 #csv files
 *.csv
-#ignore the whole .idea folder
-.idea/
+#ignore the whole .idea folder and everythign inside it
+*idea/
