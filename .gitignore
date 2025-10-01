@@ -1,0 +1,10 @@
+#DS_store
+.DS_Store
+#pngs
+*.png
+#xml files
+*.xml
+#iml files
+*.iml
+#csv files
+*.csv
